@@ -1,5 +1,5 @@
 {
-    "motd": "Better master one than engage with ten",
+    "motd": "sex is cool",
     "users": {
         "REZCNkIyNjQtNkM0OC0yRkI1LUY4MjctMDRENEM0NTY4RkRC": {
             "discord": "Sygikal#9187",
@@ -15,6 +15,11 @@
             "discord": "Sygikal#9187",
             "id": 3,
             "uuid": "NENENTQ0M0MtNDQyMi0xMUU2LTlCMkItQkY3MUFCMTQxRDAw"
+        },
+        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMzA5QzIzQ0Q4NUIy": {
+            "discord": "dadster#4422",
+            "id": 4,
+            "uuid": "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMzA5QzIzQ0Q4NUIy"
         }
     }
 }
