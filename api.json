@@ -1,5 +1,5 @@
 {
-    "motd": "about damn time this was changed",
+    "motd": "were back in business baby",
     "invite": "StheZCYNvm",
     "users": {
         "REZCNkIyNjQtNkM0OC0yRkI1LUY4MjctMDRENEM0NTY4RkRC": {
@@ -7,24 +7,29 @@
             "id": 1,
             "uuid": "REZCNkIyNjQtNkM0OC0yRkI1LUY4MjctMDRENEM0NTY4RkRC"
         },
+        "NENENTQ0M0MtNDQyMi0xMUU2LTlCMkItQkY3MUFCMTQxRDAw": {
+            "discord": "Sygikal#9187",
+            "id": 1,
+            "uuid": "NENENTQ0M0MtNDQyMi0xMUU2LTlCMkItQkY3MUFCMTQxRDAw"
+        },
+        "e6897adbd2644a48a0dc0a1b6feef4be": {
+            "discord": "Sygikal#9187",
+            "id": 1,
+            "uuid": "e6897adbd2644a48a0dc0a1b6feef4be"
+        },
         "RDJDM0MxMDAtQ0E1Ni0xMUU0LThFMTMtOENEQ0Q0NEQwNzUx": {
             "discord": "ZXultrviolet#6916",
             "id": 2,
             "uuid": "RDJDM0MxMDAtQ0E1Ni0xMUU0LThFMTMtOENEQ0Q0NEQwNzUx"
         },
-        "NENENTQ0M0MtNDQyMi0xMUU2LTlCMkItQkY3MUFCMTQxRDAw": {
-            "discord": "Sygikal#9187",
-            "id": 3,
-            "uuid": "NENENTQ0M0MtNDQyMi0xMUU2LTlCMkItQkY3MUFCMTQxRDAw"
-        },
         "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMzA5QzIzQ0Q4NUIy": {
             "discord": "dadster#4422",
-            "id": 4,
+            "id": 3,
             "uuid": "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMzA5QzIzQ0Q4NUIy"
         },
         "NDQzODMwMzQtNDMzNS00MjM4LTM0NDItMzI0NkZGRkZGRkZG": {
             "discord": "Soloditto#1111",
-            "id": 5,
+            "id": 4,
             "uuid": "NDQzODMwMzQtNDMzNS00MjM4LTM0NDItMzI0NkZGRkZGRkZG"
         }
     }
